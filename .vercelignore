@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Documentation
+*.md
+!README.md
+
+# Development files
+.git/
+.gitignore
+.env
+.env.local
+.env.example
+
+# Large files that might not be needed for deployment
+RF_Presentation.docx
+PSEUDOCODE.md
+PSEUDOCODE_PRESENTATION.md
+DEPLOYMENT.md
+DEPLOYMENT_SUMMARY.md
+VERCEL_DEPLOYMENT.md
